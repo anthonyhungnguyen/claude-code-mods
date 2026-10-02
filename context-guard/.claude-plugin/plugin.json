@@ -1,0 +1,1 @@
+{ "name": "context-guard", "version": "0.1.0", "description": "Context window fill in the status line, with a heads-up before it runs out", "types": "./types/index.d.ts" }

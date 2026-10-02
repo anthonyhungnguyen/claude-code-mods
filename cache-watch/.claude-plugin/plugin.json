@@ -1,0 +1,1 @@
+{ "name": "cache-watch", "version": "0.1.0", "description": "Toast when a turn rebuilt the prompt cache, with what it cost and the likely cause", "types": "./types/index.d.ts" }
